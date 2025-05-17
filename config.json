@@ -1,10 +1,9 @@
 {
-  "telegramApiToken": null,
-  "chatId": null,
   "projects": [
     {
-      "topic": "",
-      "url": ""
+      "topic": "Mazda 3 2018-2020",
+      "url": "https://www.yad2.co.il/vehicles/private-cars?manufacturer=13&model=1614&year=2018-2020&price=0-90000&odometer=0-120000",
+      "disabled": false
     }
   ]
 }
